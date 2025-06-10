@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "381050286605",
+    "project_id": "ts-app-b4c88",
+    "storage_bucket": "ts-app-b4c88.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381050286605:android:1b4cd199921efb4b1e5b44",
+        "android_client_info": {
+          "package_name": "com.example.ts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBirjALr5Y0BP-0FzOzJLuU-YGfriHo50k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
