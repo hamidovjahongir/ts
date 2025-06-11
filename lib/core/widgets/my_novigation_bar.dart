@@ -3,13 +3,14 @@ import 'package:flutter_svg/flutter_svg.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:ts/core/utils/images.dart';
 import 'package:ts/features/home/presentation/pages/home_screen.dart';
+import 'package:ts/features/training/presentation/pages/stretching.dart';
 
 class MyBottomNavigationBar extends StatelessWidget {
   MyBottomNavigationBar({super.key});
   final ValueNotifier<int> _currentIndexNotifier = ValueNotifier<int>(0);
   final List<Widget> _screens = const [
     HomeScreen(),
-    HomeScreen(),
+    Stretching(),
     HomeScreen(),
     HomeScreen(),
     HomeScreen(),
